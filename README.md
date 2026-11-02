@@ -22,7 +22,7 @@ I build end-to-end machine learning systems: data pipeline, model, evaluation, a
 | --- | --- | --- |
 | [**Credit Risk Decision Support**](https://github.com/Justin-Fekri/ai-credit-risk-loan-decision-support) | Scores 12-month default risk, explains each score with TreeSHAP, and routes files to an underwriter workbench. 0.799 ROC-AUC on a 2,400-record holdout. | Python, XGBoost, SHAP, FastAPI, Next.js |
 | [**Enterprise Document Q&A**](https://github.com/Justin-Fekri/enterprise-document-qa) | Answers questions over PDF and Word policies with page-level citations, abstains when evidence is missing, and enforces role-based access at retrieval time. | Python, FastAPI, Streamlit, RAGAS |
-| [**Medical Image Classifier + Grad-CAM**](https://github.com/Justin-Fekri/medical-image-cancer-detection-prototype) | EfficientNet-B0 classifier with an adjustable review threshold and Grad-CAM heatmaps showing which regions drove each prediction. | PyTorch, EfficientNet-B0, Streamlit |
+| [**Breast Ultrasound Classifier + Grad-CAM**](https://github.com/Justin-Fekri/medical-image-cancer-detection-prototype) · [live demo](https://justin-fekri.github.io/medical-image-cancer-detection-prototype/) | EfficientNet-B0 trained on real breast ultrasound scans (BreastMNIST). 0.916 ROC-AUC on the held-out test set, with Grad-CAM heatmaps showing which regions drove each prediction. Runs in the browser with ONNX. | PyTorch, ONNX, Streamlit |
 | [**PixelCraft**](https://github.com/Justin-Fekri/PixelCraft) | Java image-processing CLI built on a pluggable filter framework with per-pixel and recursive spatial filters. | Java |
 
 ### Tech stack
