@@ -12,7 +12,7 @@ I'm looking for a co-op or internship in tech. You can reach me at justinfekri@g
 EfficientNet-B0 trained on real breast ultrasound scans (BreastMNIST). It gets 0.916 ROC-AUC on the held-out test set, uses Grad-CAM to show where it's looking, and runs entirely in the browser with ONNX.
 
 **[Credit Risk Decision Support](https://github.com/Justin-Fekri/ai-credit-risk-loan-decision-support)**\
-XGBoost model that estimates loan default risk, explains each score with SHAP, and sends each file to a small underwriter dashboard (FastAPI + Next.js) where a person makes the final call.
+XGBoost model trained on about 590,000 real Lending Club loans and tested on a later year it never saw. It explains each score with SHAP and sends each file to a small underwriter dashboard (FastAPI + Next.js) where a person makes the final call.
 
 **[Enterprise Document Q&A](https://github.com/Justin-Fekri/enterprise-document-qa)**\
 Answers questions about PDF and Word policy documents with page citations, says it doesn't know when the documents don't cover the question, and keeps restricted files away from users who shouldn't see them.
