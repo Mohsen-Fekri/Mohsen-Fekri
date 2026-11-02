@@ -14,7 +14,7 @@ EfficientNet-B0 trained on real breast ultrasound scans (BreastMNIST). It gets 0
 **[Credit Risk Decision Support](https://github.com/Mohsen-Fekri/ai-credit-risk-loan-decision-support)**\
 XGBoost model trained on about 590,000 real Lending Club loans and tested on a later year it never saw. It explains each score with SHAP and sends each file to a small underwriter dashboard (FastAPI + Next.js) where a person makes the final call.
 
-**[Enterprise Document Q&A](https://github.com/Mohsen-Fekri/enterprise-document-qa)**\
+**[Enterprise Document Q&A](https://github.com/Mohsen-Fekri/enterprise-document-qa)** · [live demo](https://mohsen-fekri.github.io/enterprise-document-qa/)\
 Answers questions about PDF and Word policy documents with page citations, says it doesn't know when the documents don't cover the question, and keeps restricted files away from users who shouldn't see them.
 
 **[PixelCraft](https://github.com/Mohsen-Fekri/PixelCraft)**\
