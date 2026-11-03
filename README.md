@@ -8,7 +8,7 @@ I'm looking for a co-op or internship in tech. You can reach me at justinfekri@g
 
 ### Projects
 
-**[Breast Ultrasound Classifier](https://github.com/Mohsen-Fekri/medical-image-cancer-detection-prototype)** · [live demo](https://mohsen-fekri.github.io/medical-image-cancer-detection-prototype/)\
+**[Breast Cancer Detection AI](https://github.com/Mohsen-Fekri/breast-cancer-detection-ai)** · [live demo](https://mohsen-fekri.github.io/breast-cancer-detection-ai/)\
 EfficientNet-B0 trained on real breast ultrasound scans (BreastMNIST). It gets 0.916 ROC-AUC on the held-out test set, uses Grad-CAM to show where it's looking, and runs entirely in the browser with ONNX.
 
 **[Credit Risk Decision Support](https://github.com/Mohsen-Fekri/ai-credit-risk-loan-decision-support)**\
