@@ -4,7 +4,7 @@ I'm a Computer Science student at York University (Lassonde, co-op stream) in To
 
 Right now I'm helping out on a research project at York with Prof. Navid Mohaghegh, segmenting needles in ultrasound video with PyTorch and MONAI (Swin Transformer + ConvLSTM).
 
-I'm looking for a co-op or internship in tech. You can reach me at justinfe@my.yorku.ca or on LinkedIn: [linkedin.com/in/mohsen-fekri](https://www.linkedin.com/in/mohsen-fekri).
+I'm looking for a co-op or internship in tech. You can reach me at [justinfe@my.yorku.ca](mailto:justinfe@my.yorku.ca) or on LinkedIn: [linkedin.com/in/mohsen-fekri](https://www.linkedin.com/in/mohsen-fekri).
 
 ### Projects
 
